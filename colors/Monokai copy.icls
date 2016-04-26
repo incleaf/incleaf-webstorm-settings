@@ -52,7 +52,6 @@
         <option name="FOREGROUND" value="e6db74" />
       </value>
     </option>
-    <option name="CLASS_NAME_ATTRIBUTES" baseAttributes="TEXT" />
     <option name="CLASS_REFERENCE">
       <value>
         <option name="FOREGROUND" value="a6e22e" />
@@ -848,7 +847,6 @@
         <option name="FOREGROUND" value="f92672" />
       </value>
     </option>
-    <option name="LOCAL_VARIABLE_ATTRIBUTES" baseAttributes="TEXT" />
     <option name="MACRONAME">
       <value>
         <option name="FOREGROUND" value="a6e22e" />
@@ -931,7 +929,6 @@
         <option name="FOREGROUND" value="e6db74" />
       </value>
     </option>
-    <option name="PARAMETER_ATTRIBUTES" baseAttributes="TEXT" />
     <option name="PHP_PARAMETER">
       <value>
         <option name="FOREGROUND" value="fd971f" />
