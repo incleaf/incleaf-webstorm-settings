@@ -1,0 +1,30 @@
+<application>
+  <component name="TextMateSettings">
+    <option name="bundles">
+      <list>
+        <BundleConfigBean>
+          <option name="name" value="Python Django Templates" />
+          <option name="path" value="$USER_HOME$/Projects/python-django-templates.tmbundle" />
+        </BundleConfigBean>
+      </list>
+    </option>
+    <option name="themesMapping">
+      <map>
+        <entry key="All hallow's eve" value="All Hallow's Eve" />
+        <entry key="Blackboard" value="Blackboard" />
+        <entry key="Cobalt" value="Cobalt" />
+        <entry key="Darcula" value="Darcula" />
+        <entry key="Darcula copy" value="Mac Classic" />
+        <entry key="Default" value="Mac Classic" />
+        <entry key="Monokai" value="Monokai" />
+        <entry key="Monokai copy" value="Mac Classic" />
+        <entry key="Oceanic Next" value="Monokai" />
+        <entry key="Oceanic Next copy" value="Mac Classic" />
+        <entry key="Railscasts" value="RailsCasts" />
+        <entry key="Twilight" value="Twilight" />
+        <entry key="VibrantInk" value="Mac Classic" />
+        <entry key="WarmNeon" value="Mac Classic" />
+      </map>
+    </option>
+  </component>
+</application>
