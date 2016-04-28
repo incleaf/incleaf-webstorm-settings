@@ -1,4 +1,8 @@
 <keymap version="1" name="asdffads" parent="Mac OS X 10.5+">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="ctrl meta alt p" />
   </action>
@@ -10,6 +14,10 @@
   <action id="EditorSplitLine" />
   <action id="ExpandLiveTemplateByTab" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="meta b" />
     <mouse-shortcut keystroke="meta button1" />
@@ -27,7 +35,9 @@
     <keyboard-shortcut first-keystroke="ctrl meta p" />
   </action>
   <action id="NextParameter" />
-  <action id="NextSplitter" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
     <keyboard-shortcut first-keystroke="ctrl right" />
@@ -37,6 +47,10 @@
     <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="ParameterInfo" />
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift alt tab" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl left" />
