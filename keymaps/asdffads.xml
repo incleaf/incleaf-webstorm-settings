@@ -9,6 +9,9 @@
   <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorSplitLine" />
   <action id="ExpandLiveTemplateByTab" />
+  <action id="ExpandLiveTemplateCustom">
+    <keyboard-shortcut first-keystroke="alt tab" />
+  </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="meta b" />
