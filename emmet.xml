@@ -1,5 +1,6 @@
 <application>
   <component name="EmmetOptions">
+    <option name="emmetExpandShortcut" value="10" />
     <option name="previewEnabled" value="true" />
   </component>
 </application>
