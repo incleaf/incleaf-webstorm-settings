@@ -13,6 +13,9 @@
   <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorSplitLine" />
   <action id="ExpandLiveTemplateByTab" />
+  <action id="ExpandLiveTemplateCustom">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
