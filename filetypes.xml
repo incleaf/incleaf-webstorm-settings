@@ -1,11 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="html" approved="true" type="HTML" />
+      <removed_mapping ext="html" type="HTML" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="_variables" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
-      <mapping ext="html" type="Twig" />
+      <mapping ext="html" type="textmate" />
     </extensionMap>
   </component>
 </application>
