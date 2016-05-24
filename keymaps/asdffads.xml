@@ -27,11 +27,16 @@
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="EditorSplitLine" />
+  <action id="EditorStartNewLineBefore" />
   <action id="ExpandLiveTemplateByTab" />
   <action id="ExpandLiveTemplateCustom">
     <keyboard-shortcut first-keystroke="tab" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="meta alt enter" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />
