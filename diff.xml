@@ -10,6 +10,9 @@
       <entry key="Default">
         <PlaceSettings />
       </entry>
+      <entry key="DirDiff">
+        <PlaceSettings />
+      </entry>
     </option>
   </component>
   <component name="TextDiffSettings">
