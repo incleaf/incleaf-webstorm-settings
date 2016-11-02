@@ -12,4 +12,10 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="exp" value="export const $COMPONENT$ = require('./$COMPONENT$').default;&#10;$END$" description="export object that exported as default with specific name" toReformat="false" toShortenFQNames="true">
+    <variable name="COMPONENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
