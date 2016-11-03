@@ -18,4 +18,10 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="action" value="$COMPONENT$: '$COMPONENT$',$END$" description="Redux Action" toReformat="false" toShortenFQNames="true">
+    <variable name="COMPONENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
