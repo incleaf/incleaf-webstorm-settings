@@ -12,4 +12,21 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="exp" value="export const $COMPONENT$ = require('./$COMPONENT$').default;&#10;$END$" description="export object that exported as default with specific name" toReformat="false" toShortenFQNames="true">
+    <variable name="COMPONENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="act" value="$COMPONENT$: '$COMPONENT$',$END$" description="Redux Action" toReformat="false" toShortenFQNames="true">
+    <variable name="COMPONENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="reducer" value="export const actions = {$END$};&#10;&#10;export const defaultState = {};&#10;&#10;export default (state = defaultState, action) =&gt; {&#10;  switch (action.type) {&#10;    default:&#10;      return state;&#10;  }&#10;}" description="Simple code that contains Redux action/reducer" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
