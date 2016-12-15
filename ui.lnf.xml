@@ -1,6 +1,6 @@
 <application>
   <component name="UISettings">
     <option name="FONT_SIZE" value="14" />
-    <option name="MAX_LOOKUP_LIST_HEIGHT" value="6" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="5" />
   </component>
 </application>
