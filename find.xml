@@ -2,6 +2,7 @@
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="FILE_MASK" value=".py" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -12,6 +13,7 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.html</mask>
+      <mask>.py</mask>
     </recentFileMasks>
   </component>
 </application>
